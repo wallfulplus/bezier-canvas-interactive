@@ -15,6 +15,7 @@ The curve is calculated using the standard Bézier formula. For a cubic Bézier 
 
 ### Getting Started
 [Bézier - github.io](https://wallfulplus.github.io/bezier-canvas-interactive)
+![](ref/manual.png)
 
 ### Demonstration
 [Demonstration - youtube.com](https://youtu.be/uZjk96p2AwA)
