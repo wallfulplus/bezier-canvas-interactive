@@ -8,8 +8,8 @@ export const config = {
     white: '#ffffff',
     general: '#2e99b0',
     highLight: '#ff2e4c',
-    fadeHighLight: '#ff2e4d88',
-    highLight2: '#fcd77f'
+    highLight2: '#fcd77f',
+    fadeHighLight: '#ff2e4d88'
   },
   // #region text
   text: {
@@ -19,5 +19,10 @@ export const config = {
   pointConfig: {
     border: 8,
     radius: 16,
+    smallRadius: 8
+  },
+  edgeConfig: {
+    border: 8,
+    smallBorder: 4
   }
 };
